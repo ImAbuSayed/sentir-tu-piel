@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Sentir tu piel
+
+This log tracks the cryptographic history and versioning for the song **Sentir tu piel** (sentir-tu-piel).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-23T12:45:39.728635 | `v1` | `badf2d7451255f49b69f4539c85c0f577110bbca96ff2c4eea0caeb1ff54fe3a` | `60dd41d056c3b752827ba46e9a7986a35c4a79436647b6d43a8c3e3e680c6dc5` | `2026-06-23_sentir-tu-piel-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
